@@ -78,11 +78,27 @@
   </url>
   
   <url>
+    <loc>/author/a.-a.-minzoni/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
+    <loc>/author/mariana-vargas/</loc>
+  </url>
+  
+  <url>
     <loc>/author/minzoni-a.-a./</loc>
+  </url>
+  
+  <url>
+    <loc>/author/noel-f.-smyth/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/p.-panayotaros/</loc>
   </url>
   
   <url>
@@ -95,6 +111,14 @@
   
   <url>
     <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/sebastien-fromenteau/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/tim-marchant/</loc>
   </url>
   
 </urlset>
