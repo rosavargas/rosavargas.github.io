@@ -14,9 +14,9 @@
     
     <item>
       <title>Computational Fluid Dynamics Laboratory</title>
-      <link>/project/virtuallab-project/</link>
+      <link>/project/fluidmlab/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/virtuallab-project/</guid>
+      <guid>/project/fluidmlab/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;em&gt;System of equations that this laboratory is able to perform&lt;/em&gt;:Free-surface potential flow Euler equations, Whitham-Boussinesq Equations, Boussinesq Equation, KdV Equation, among other variations and extensions of these equations.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Types of waves that we can study in this lab&lt;/em&gt;: solitary waves, dispersive shock waves, soliton waves, tsunami waves, periodic waves, traveling waves, longitudinal waves, transverse waves, trapped waves.&lt;/li&gt;
