@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Rosa Maria Vargas-Magaña</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Rosa Maria Vargas-Magaña</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
+      <title>Numerical and analytical study of undular bores governed by the full water wave equations and bi-directional Whitham-Boussinesq equations</title>
       <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -25,6 +25,37 @@
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>CVI Toolbox</title>
+      <link>/project/cvitoolbox-project/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/cvitoolbox-project/</guid>
+      <description>&lt;p&gt;A toolbox in matlab of cluster validity indices for determining the number of clusters on data clustering problems. &lt;code&gt;The manuscript presenting this toolbox is under review&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-view Data Repository</title>
+      <link>/project/mvcrepository-project/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/mvcrepository-project/</guid>
+      <description>&lt;p&gt;A repository of multi-view data clustering approaches using evolutionary algorithms.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List of publications&lt;/li&gt;
+&lt;li&gt;List of datasets&lt;/li&gt;
+&lt;li&gt;Implementation of algorithms&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>C3-IoC Project</title>
+      <link>/project/c3ioc-project/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/c3ioc-project/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -48,9 +79,9 @@
     </item>
     
     <item>
-      <title>Linear Modes for Channels of Constant Cross- Section and Approximate DirichletNeumann Operators</title>
+      <title>A Whitham-Boussinesq long-wave model for variable topography</title>
       <link>/publication/journal-article2/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article2/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

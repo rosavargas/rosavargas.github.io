@@ -4,47 +4,102 @@
   
   <url>
     <loc>/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/noel-f.-smyth/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/rosa-maria-vargas-magana/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tim-marchant/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cluster-validity-index/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/clustering/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/cvitoolbox-project/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/evolutionary-optimization/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/multi-objective-optimization/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/mvcrepository-project/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/c3ioc-project/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -59,7 +114,7 @@
   
   <url>
     <loc>/publication/journal-article2/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -94,10 +149,6 @@
   </url>
   
   <url>
-    <loc>/author/noel-f.-smyth/</loc>
-  </url>
-  
-  <url>
     <loc>/author/p.-panayotaros/</loc>
   </url>
   
@@ -115,10 +166,6 @@
   
   <url>
     <loc>/author/sebastien-fromenteau/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/tim-marchant/</loc>
   </url>
   
 </urlset>
