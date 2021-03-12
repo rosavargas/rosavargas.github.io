@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Rosa Maria Vargas-Magaña</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <title>System of equations performed in this Lab. | Rosa Maria Vargas-Magaña</title>
+    <link>/tag/system-of-equations-performed-in-this-lab./</link>
+      <atom:link href="/tag/system-of-equations-performed-in-this-lab./index.xml" rel="self" type="application/rss+xml" />
+    <description>System of equations performed in this Lab.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>System of equations performed in this Lab.</title>
+      <link>/tag/system-of-equations-performed-in-this-lab./</link>
     </image>
     
     <item>
@@ -24,33 +24,6 @@
 &lt;li&gt;&lt;em&gt;Theoretical and methodological tools for the analysis of the phenomena we wish to study and for the creation of numerical codes&lt;/em&gt;: Infinite-dimensional Hamiltonian systems, Spectral Analysis, Dispersive Shock Wave Adjustment Method, Asymptotic methods, spectral and pseudospectral methods, finite difference methods, Cartesian and curvilinear coordinate systems, DtN operator spectrum calculation for different topographies.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Examples of ocean phenomena and processes where these equations and methodologies can be applied&lt;/em&gt;:  Internal waves in stratified fluids (concentration on waves in the pycnocline), vertical modes, Lee waves (standing waves in meteorology), waves in a pond, seiches in a body of water, breaking waves on beaches, the phenomenon of dead water, surface wave radiation due to topography, non-linear wave effects in the presence of variable topography.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Laboratorio Científico, Social y de Políticas Públicas.</title>
-      <link>/project/concienciasocial/</link>
-      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/concienciasocial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cientificæs Mexicanæs en el Extranjero</title>
-      <link>/project/mexiciencia-project/</link>
-      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/mexiciencia-project/</guid>
-      <description>&lt;p&gt;We publish creative material and tools about topics the world doesn&amp;rsquo;t have enough clarity on yet such as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Apps&lt;/li&gt;
-&lt;li&gt;Interactive maps&lt;/li&gt;
-&lt;li&gt;Infographics&lt;/li&gt;
-&lt;li&gt;Academic reports&lt;/li&gt;
-&lt;li&gt;Academic writings&lt;/li&gt;
-&lt;li&gt;Interviews&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;At the core,  we are a collective of active members of the science community from different fields of Science with a  postdoctoral position spanned in leading institutions in the world such as University of Edinburgh, University de Barcelona, Universidad de Lisboa, Purdue University, University of Texas, University of Manchester, Universidad de Madrid, Universidad de Linz, Universidad de Paris our research projects are all linked with among several leading institutions in Mexico.&lt;/p&gt;
-&lt;p&gt;We are convincing that the world needs more scientists that translate their expertise into dialogue with the public about topics that cause worry and anxiety globally to mitigate the fear and assumptions that engender in uncertainty&lt;/p&gt;
 </description>
     </item>
     

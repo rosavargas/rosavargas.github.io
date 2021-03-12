@@ -58,48 +58,23 @@
   </url>
   
   <url>
-    <loc>/tag/cluster-validity-index/</loc>
-    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/clustering/</loc>
-    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/cvitoolbox-project/</loc>
-    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/evolutionary-optimization/</loc>
-    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+    <loc>/project/virtuallab-project/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/multi-objective-optimization/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/mvcrepository-project/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+    <loc>/project/concienciasocial/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/c3ioc-project/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/machine-learning/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <loc>/project/mexiciencia-project/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -141,11 +116,19 @@
   </url>
   
   <url>
+    <loc>/tag/examples-of-topographies-that-may-be-of-interest-to-geophysical-phenomena./</loc>
+  </url>
+  
+  <url>
     <loc>/author/mariana-vargas-magana/</loc>
   </url>
   
   <url>
     <loc>/author/minzoni-a.-a./</loc>
+  </url>
+  
+  <url>
+    <loc>/tag/ocean-phenomena-and-processes-where-these-equations-and-methodologies-can-be-applied./</loc>
   </url>
   
   <url>
@@ -166,6 +149,18 @@
   
   <url>
     <loc>/author/sebastien-fromenteau/</loc>
+  </url>
+  
+  <url>
+    <loc>/tag/system-of-equations-performed-in-this-lab./</loc>
+  </url>
+  
+  <url>
+    <loc>/tag/theoretical-and-methodological-tools-used-for-the-analysis-of-nonlinear-phenomena./</loc>
+  </url>
+  
+  <url>
+    <loc>/tag/types-of-waves-that-we-can-study-in-this-lab./</loc>
   </url>
   
 </urlset>
