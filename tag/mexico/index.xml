@@ -5,29 +5,12 @@
     <link>/tag/mexico/</link>
       <atom:link href="/tag/mexico/index.xml" rel="self" type="application/rss+xml" />
     <description>México</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>México</title>
       <link>/tag/mexico/</link>
     </image>
-    
-    <item>
-      <title>Carta CONACYT</title>
-      <link>/post/conacyt-extension/</link>
-      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/conacyt-extension/</guid>
-      <description>&lt;p&gt;En esta carta manifestamos nuestras inquietudes ante la crisis que como integrantes de esta comunidad científica estamos afrontando ante la falta de oportunidades y opciones laborales en México.&lt;/p&gt;
-&lt;p&gt;Esta situación se ha recrudecido debido a la pandemia por covid19 y estamos convencidos de que puede empeorar si no hacemos un frente común. Los invitamos a leer y a firmar.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Los invitamos a firmar la carta en el siguien enlace&lt;/strong&gt;: &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeFhqq9e77ZWwaRw_zI3ClDPUT91jxelcCdG5EPMoQmKwEo1g/viewform&#34; target=&#34;_blank&#34;&gt;Firmar carta en Google Forms&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;carta-dirigida-a-funcionarios-del-conacyt&#34;&gt;Carta dirigida a funcionarios del CONACyT:&lt;/h2&gt;
-&lt;object data=&#34;extension_beca_conacyt.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;1200px&#34;&gt;
-    &lt;embed src=&#34;extension_beca_conacyt.pdf&#34;&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;covid19_articulo.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
-    &lt;/embed&gt;
-&lt;/object&gt;
-</description>
-    </item>
     
     <item>
       <title>Impacto de las Medidas de Control en la evolución del brote COVID-19🦠</title>
@@ -49,27 +32,6 @@
         &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;covid19_articulo.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
     &lt;/embed&gt;
 &lt;/object&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Evolución del COVID-19 en México 🦠🇲🇽</title>
-      <link>/post/covid19_report/</link>
-      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/covid19_report/</guid>
-      <description>&lt;p&gt;Mapas interactivos de la evolución del brote epidémico COVID-19 en México por entidades.&lt;/p&gt;
-&lt;h2 id=&#34;1-mapa-interactivo&#34;&gt;1. Mapa interactivo&lt;/h2&gt;
-&lt;iframe width=&#34;900&#34; height=&#34;1420&#34; src=&#34;https://datastudio.google.com/embed/reporting/c2b622f7-ccb1-4af7-858b-0cdc9745f97f/page/zGEMB&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;
-&lt;/iframe&gt;
-&lt;h2 id=&#34;2-mapa-de-dispersión&#34;&gt;2. Mapa de dispersión&lt;/h2&gt;
-&lt;div class=&#34;flourish-embed flourish-map&#34; data-src=&#34;visualisation/1971849&#34; data-url=&#34;https://flo.uri.sh/visualisation/1971849/embed&#34; data-width=&#34;105%&#34;&gt;&lt;script src=&#34;https://public.flourish.studio/resources/embed.js&#34;&gt;&lt;/script&gt;&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Créditos&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mapa interactivo y visualización de datos (Dr. 
-&lt;a href=&#34;https://www.tamps.cinvestav.mx/~ajose/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adán José-García&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Mapa de dispersiones  (Dr. 
-&lt;a href=&#34;https://thes0lver.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rafael Pérez-Torres&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

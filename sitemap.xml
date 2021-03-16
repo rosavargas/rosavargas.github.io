@@ -78,26 +78,6 @@
   </url>
   
   <url>
-    <loc>/post/conacyt-extension/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/comunicado/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/mexico/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/infografia/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url>
@@ -108,8 +88,8 @@
   </url>
   
   <url>
-    <loc>/author/conciencia/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -128,13 +108,18 @@
   </url>
   
   <url>
-    <loc>/author/rosamaria/</loc>
+    <loc>/author/mariana-vargas-magana/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/adan/</loc>
-    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
+    <loc>/tag/mexico/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sebastien-fromenteau/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -143,22 +128,12 @@
   </url>
   
   <url>
-    <loc>/post/anita/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/contracampania/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/zoonosis/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/fakenews/</loc>
+    <loc>/post/anita/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -221,10 +196,6 @@
   </url>
   
   <url>
-    <loc>/author/mariana-vargas-magana/</loc>
-  </url>
-  
-  <url>
     <loc>/tag/ocean-phenomena-and-processes-where-these-equations-and-methodologies-can-be-applied./</loc>
   </url>
   
@@ -234,10 +205,6 @@
   
   <url>
     <loc>/talk/seminarcca/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/sebastien-fromenteau/</loc>
   </url>
   
   <url>
