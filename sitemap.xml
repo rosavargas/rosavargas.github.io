@@ -59,11 +59,16 @@
   
   <url>
     <loc>/talk/seminarcicese/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/seminarcca/</loc>
     <lastmod>2020-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -85,6 +90,11 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/colloquiumcinvestav/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -110,11 +120,6 @@
   <url>
     <loc>/post/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/coonciencia-social/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -153,6 +158,11 @@
   </url>
   
   <url>
+    <loc>/talk/talkicf/</loc>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/zoonosis/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
   </url>
@@ -175,6 +185,11 @@
   <url>
     <loc>/project/mexiciencia/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/talkcmo/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -225,27 +240,11 @@
   </url>
   
   <url>
-    <loc>/talk/seminarcca/</loc>
-  </url>
-  
-  <url>
     <loc>/tag/system-of-equations-performed-in-this-lab./</loc>
   </url>
   
   <url>
-    <loc>/talk/colloquiumcinvestav/</loc>
-  </url>
-  
-  <url>
     <loc>/tag/theoretical-and-methodological-tools-used-for-the-analysis-of-nonlinear-phenomena./</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/talkcmo/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/talkicf/</loc>
   </url>
   
   <url>
