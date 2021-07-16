@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastièn Fromenteau | Rosa Maria Vargas-Magaña</title>
+    <link>/author/sebastien-fromenteau/</link>
+      <atom:link href="/author/sebastien-fromenteau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastièn Fromenteau</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sebastièn Fromenteau</title>
+      <link>/author/sebastien-fromenteau/</link>
+    </image>
+    
+    <item>
+      <title>Impacto de las Medidas de Control en la evolución del brote COVID-19🦠</title>
+      <link>/post/covid19-articulo/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/covid19-articulo/</guid>
+      <description>&lt;h2 id=&#34;resumen&#34;&gt;Resumen&lt;/h2&gt;
+&lt;p&gt;En este artículo  presentamos un análisis sobre el impacto de las medidas de control en la evolución del brote COVID-19🦠 en los países: 🇪🇸🇨🇳🇦🇹🇩🇪🇵🇹🇮🇹🇫🇷🇬🇧🇲🇽. Las medidas de control estudiadas han variado tanto en la escala de severidad como en la temporalidad frente al brote epidémico en cada país. Estas variaciones en las medidas de control producen un efecto en la evolución de la tasa de contagio que se puede medir con la metodología que desarrollamos,  denominada &amp;ldquo;ajustes SIR dinámicos data-driven&amp;rdquo;. Los parámetros considerados en nuestro análisis y evaluación de las acciones realizadas en cada país son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Semana de llegada a la cumbre del brote epidémico.&lt;/li&gt;
+&lt;li&gt;Implementación oportuna y efectiva de las medidas de control.&lt;/li&gt;
+&lt;li&gt;Diseño de una estrategia respaldada por un sistema de salud fortalecido.&lt;/li&gt;
+&lt;li&gt;Letalidad de COVID-19  en el país en la fase de declive del brote.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;De este análisis concluimos que la implementación oportuna o tardía de algunas medidas de control establecidas por los gobiernos tienen un impacto en la evolución, la intensidad y la duración del brote epidémico en cada país. Esto nos  permite entender en su justa dimensión el caso Mexicano y las medidas de control impuestas por la SSA.&lt;/p&gt;
+&lt;h2 id=&#34;contenido-del-artículo&#34;&gt;Contenido del artículo&lt;/h2&gt;
+&lt;object data=&#34;covid19_articulo.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;1200px&#34;&gt;
+    &lt;embed src=&#34;covid19_articulo.pdf&#34;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;covid19_articulo.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
